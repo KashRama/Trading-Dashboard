@@ -1,0 +1,16 @@
+.env
+*.pem
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+data/trades.db
+data/*.db
+data/*.db-journal
+.DS_Store
+.streamlit/secrets.toml
+.pytest_cache/
